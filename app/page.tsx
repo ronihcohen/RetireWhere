@@ -98,8 +98,24 @@ export default function Home() {
     await fetchResult(form);
   }
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    name: "RetireWhere",
+    url: "https://retirewhere.vercel.app",
+    description:
+      "Calculate how much you need to retire in any city or country, scaled by cost of living with a tax-adjusted 4% rule.",
+    applicationCategory: "FinanceApplication",
+    operatingSystem: "Web",
+    offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+  };
+
   return (
     <main className="max-w-xl mx-auto px-4 py-10 flex flex-col gap-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero */}
       <div className="pt-4">
         <h1 className="text-3xl font-bold text-slate-900 tracking-tight">RetireWhere</h1>

@@ -3,17 +3,36 @@ import "./globals.css";
 
 const SITE_URL = "https://retirewhere.vercel.app";
 
+const TITLE = "RetireWhere — Retirement Calculator by Cost of Living";
+const DESCRIPTION =
+  "Calculate exactly how much you need to retire in any country or city. Enter your monthly spend, pick a destination, and get a tax-adjusted nest egg number using the 4% rule scaled by cost of living.";
+
 export const metadata: Metadata = {
   title: {
-    default: "RetireWhere",
+    default: TITLE,
     template: "%s — RetireWhere",
   },
-  description:
-    "Find out how much you need invested to retire anywhere in the world. Enter your current spend, pick a destination, and get a tax-adjusted nest egg number.",
+  description: DESCRIPTION,
+  keywords: [
+    "retirement calculator",
+    "retire abroad",
+    "cost of living calculator",
+    "nest egg calculator",
+    "4% rule calculator",
+    "how much to retire",
+    "retirement number",
+    "retire in Portugal",
+    "retire in Thailand",
+    "financial independence",
+    "FIRE calculator",
+  ],
   metadataBase: new URL(SITE_URL),
+  alternates: {
+    canonical: SITE_URL,
+  },
   openGraph: {
-    title: "RetireWhere",
-    description: "Your personalised retirement number — scaled by cost of living.",
+    title: TITLE,
+    description: DESCRIPTION,
     url: SITE_URL,
     siteName: "RetireWhere",
     type: "website",
@@ -21,12 +40,14 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "RetireWhere",
-    description: "Your personalised retirement number — scaled by cost of living.",
+    title: TITLE,
+    description: DESCRIPTION,
+    creator: "@retirewhere",
   },
   robots: {
     index: true,
     follow: true,
+    googleBot: { index: true, follow: true },
   },
 };
 
