@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://retirewhere.vercel.app/sitemap.xml

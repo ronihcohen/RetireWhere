@@ -1,0 +1,783 @@
+[
+  {
+    "id": "EG",
+    "name": "Egypt",
+    "level": "country"
+  },
+  {
+    "id": "IN",
+    "name": "India",
+    "level": "country"
+  },
+  {
+    "id": "LK",
+    "name": "Sri Lanka",
+    "level": "country"
+  },
+  {
+    "id": "MM",
+    "name": "Myanmar",
+    "level": "country"
+  },
+  {
+    "id": "NP",
+    "name": "Nepal",
+    "level": "country"
+  },
+  {
+    "id": "RW",
+    "name": "Rwanda",
+    "level": "country"
+  },
+  {
+    "id": "TR",
+    "name": "Turkey",
+    "level": "country"
+  },
+  {
+    "id": "GE",
+    "name": "Georgia",
+    "level": "country"
+  },
+  {
+    "id": "VN",
+    "name": "Vietnam",
+    "level": "country"
+  },
+  {
+    "id": "LA",
+    "name": "Laos",
+    "level": "country"
+  },
+  {
+    "id": "MD",
+    "name": "Moldova",
+    "level": "country"
+  },
+  {
+    "id": "BD",
+    "name": "Bangladesh",
+    "level": "country"
+  },
+  {
+    "id": "TH",
+    "name": "Thailand",
+    "level": "country"
+  },
+  {
+    "id": "CO",
+    "name": "Colombia",
+    "level": "country"
+  },
+  {
+    "id": "ID",
+    "name": "Indonesia",
+    "level": "country"
+  },
+  {
+    "id": "MY",
+    "name": "Malaysia",
+    "level": "country"
+  },
+  {
+    "id": "KH",
+    "name": "Cambodia",
+    "level": "country"
+  },
+  {
+    "id": "NG",
+    "name": "Nigeria",
+    "level": "country"
+  },
+  {
+    "id": "DO",
+    "name": "Dominican Republic",
+    "level": "country"
+  },
+  {
+    "id": "KE",
+    "name": "Kenya",
+    "level": "country"
+  },
+  {
+    "id": "RO",
+    "name": "Romania",
+    "level": "country"
+  },
+  {
+    "id": "GH",
+    "name": "Ghana",
+    "level": "country"
+  },
+  {
+    "id": "AR",
+    "name": "Argentina",
+    "level": "country"
+  },
+  {
+    "id": "PH",
+    "name": "Philippines",
+    "level": "country"
+  },
+  {
+    "id": "BG",
+    "name": "Bulgaria",
+    "level": "country"
+  },
+  {
+    "id": "BA",
+    "name": "Bosnia and Herzegovina",
+    "level": "country"
+  },
+  {
+    "id": "RS",
+    "name": "Serbia",
+    "level": "country"
+  },
+  {
+    "id": "ME",
+    "name": "Montenegro",
+    "level": "country"
+  },
+  {
+    "id": "MU",
+    "name": "Mauritius",
+    "level": "country"
+  },
+  {
+    "id": "AL",
+    "name": "Albania",
+    "level": "country"
+  },
+  {
+    "id": "GT",
+    "name": "Guatemala",
+    "level": "country"
+  },
+  {
+    "id": "PL",
+    "name": "Poland",
+    "level": "country"
+  },
+  {
+    "id": "BR",
+    "name": "Brazil",
+    "level": "country"
+  },
+  {
+    "id": "MA",
+    "name": "Morocco",
+    "level": "country"
+  },
+  {
+    "id": "JO",
+    "name": "Jordan",
+    "level": "country"
+  },
+  {
+    "id": "TN",
+    "name": "Tunisia",
+    "level": "country"
+  },
+  {
+    "id": "EC",
+    "name": "Ecuador",
+    "level": "country"
+  },
+  {
+    "id": "PE",
+    "name": "Peru",
+    "level": "country"
+  },
+  {
+    "id": "MX",
+    "name": "Mexico",
+    "level": "country"
+  },
+  {
+    "id": "MN",
+    "name": "Mongolia",
+    "level": "country"
+  },
+  {
+    "id": "HU",
+    "name": "Hungary",
+    "level": "country"
+  },
+  {
+    "id": "ZA",
+    "name": "South Africa",
+    "level": "country"
+  },
+  {
+    "id": "MK",
+    "name": "North Macedonia",
+    "level": "country"
+  },
+  {
+    "id": "HR",
+    "name": "Croatia",
+    "level": "country"
+  },
+  {
+    "id": "LT",
+    "name": "Lithuania",
+    "level": "country"
+  },
+  {
+    "id": "BH",
+    "name": "Bahrain",
+    "level": "country"
+  },
+  {
+    "id": "OM",
+    "name": "Oman",
+    "level": "country"
+  },
+  {
+    "id": "PG",
+    "name": "Papua New Guinea",
+    "level": "country"
+  },
+  {
+    "id": "PA",
+    "name": "Panama",
+    "level": "country"
+  },
+  {
+    "id": "TW",
+    "name": "Taiwan",
+    "level": "country"
+  },
+  {
+    "id": "SA",
+    "name": "Saudi Arabia",
+    "level": "country"
+  },
+  {
+    "id": "CZ",
+    "name": "Czechia",
+    "level": "country"
+  },
+  {
+    "id": "JM",
+    "name": "Jamaica",
+    "level": "country"
+  },
+  {
+    "id": "CL",
+    "name": "Chile",
+    "level": "country"
+  },
+  {
+    "id": "CR",
+    "name": "Costa Rica",
+    "level": "country"
+  },
+  {
+    "id": "FJ",
+    "name": "Fiji",
+    "level": "country"
+  },
+  {
+    "id": "LV",
+    "name": "Latvia",
+    "level": "country"
+  },
+  {
+    "id": "SK",
+    "name": "Slovakia",
+    "level": "country"
+  },
+  {
+    "id": "CN",
+    "name": "China",
+    "level": "country"
+  },
+  {
+    "id": "UY",
+    "name": "Uruguay",
+    "level": "country"
+  },
+  {
+    "id": "GR",
+    "name": "Greece",
+    "level": "country"
+  },
+  {
+    "id": "EE",
+    "name": "Estonia",
+    "level": "country"
+  },
+  {
+    "id": "KW",
+    "name": "Kuwait",
+    "level": "country"
+  },
+  {
+    "id": "PT",
+    "name": "Portugal",
+    "level": "country"
+  },
+  {
+    "id": "SI",
+    "name": "Slovenia",
+    "level": "country"
+  },
+  {
+    "id": "TT",
+    "name": "Trinidad and Tobago",
+    "level": "country"
+  },
+  {
+    "id": "MT",
+    "name": "Malta",
+    "level": "country"
+  },
+  {
+    "id": "CY",
+    "name": "Cyprus",
+    "level": "country"
+  },
+  {
+    "id": "AE",
+    "name": "United Arab Emirates",
+    "level": "country"
+  },
+  {
+    "id": "ES",
+    "name": "Spain",
+    "level": "country"
+  },
+  {
+    "id": "QA",
+    "name": "Qatar",
+    "level": "country"
+  },
+  {
+    "id": "SG",
+    "name": "Singapore",
+    "level": "country"
+  },
+  {
+    "id": "KR",
+    "name": "South Korea",
+    "level": "country"
+  },
+  {
+    "id": "IT",
+    "name": "Italy",
+    "level": "country"
+  },
+  {
+    "id": "HK",
+    "name": "Hong Kong",
+    "level": "country"
+  },
+  {
+    "id": "FR",
+    "name": "France",
+    "level": "country"
+  },
+  {
+    "id": "DE",
+    "name": "Germany",
+    "level": "country"
+  },
+  {
+    "id": "AT",
+    "name": "Austria",
+    "level": "country"
+  },
+  {
+    "id": "BE",
+    "name": "Belgium",
+    "level": "country"
+  },
+  {
+    "id": "JP",
+    "name": "Japan",
+    "level": "country"
+  },
+  {
+    "id": "NL",
+    "name": "Netherlands",
+    "level": "country"
+  },
+  {
+    "id": "CA",
+    "name": "Canada",
+    "level": "country"
+  },
+  {
+    "id": "GB",
+    "name": "United Kingdom",
+    "level": "country"
+  },
+  {
+    "id": "NZ",
+    "name": "New Zealand",
+    "level": "country"
+  },
+  {
+    "id": "FI",
+    "name": "Finland",
+    "level": "country"
+  },
+  {
+    "id": "US",
+    "name": "United States",
+    "level": "country"
+  },
+  {
+    "id": "SE",
+    "name": "Sweden",
+    "level": "country"
+  },
+  {
+    "id": "DK",
+    "name": "Denmark",
+    "level": "country"
+  },
+  {
+    "id": "AU",
+    "name": "Australia",
+    "level": "country"
+  },
+  {
+    "id": "IE",
+    "name": "Ireland",
+    "level": "country"
+  },
+  {
+    "id": "NO",
+    "name": "Norway",
+    "level": "country"
+  },
+  {
+    "id": "LU",
+    "name": "Luxembourg",
+    "level": "country"
+  },
+  {
+    "id": "IL",
+    "name": "Israel",
+    "level": "country"
+  },
+  {
+    "id": "IS",
+    "name": "Iceland",
+    "level": "country"
+  },
+  {
+    "id": "CH",
+    "name": "Switzerland",
+    "level": "country"
+  },
+  {
+    "id": "SE-Stockholm",
+    "name": "Stockholm, Sweden",
+    "level": "city",
+    "countryName": "Sweden"
+  },
+  {
+    "id": "PT-Lisbon",
+    "name": "Lisbon, Portugal",
+    "level": "city",
+    "countryName": "Portugal"
+  },
+  {
+    "id": "ES-Barcelona",
+    "name": "Barcelona, Spain",
+    "level": "city",
+    "countryName": "Spain"
+  },
+  {
+    "id": "ES-Madrid",
+    "name": "Madrid, Spain",
+    "level": "city",
+    "countryName": "Spain"
+  },
+  {
+    "id": "TH-Bangkok",
+    "name": "Bangkok, Thailand",
+    "level": "city",
+    "countryName": "Thailand"
+  },
+  {
+    "id": "TH-Chiang Mai",
+    "name": "Chiang Mai, Thailand",
+    "level": "city",
+    "countryName": "Thailand"
+  },
+  {
+    "id": "MX-Mexico City",
+    "name": "Mexico City, Mexico",
+    "level": "city",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "DE-Berlin",
+    "name": "Berlin, Germany",
+    "level": "city",
+    "countryName": "Germany"
+  },
+  {
+    "id": "GB-London",
+    "name": "London, United Kingdom",
+    "level": "city",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "CO-Medellin",
+    "name": "Medellin, Colombia",
+    "level": "city",
+    "countryName": "Colombia"
+  },
+  {
+    "id": "FR-Paris",
+    "name": "Paris, France",
+    "level": "city",
+    "countryName": "France"
+  },
+  {
+    "id": "NL-Amsterdam",
+    "name": "Amsterdam, Netherlands",
+    "level": "city",
+    "countryName": "Netherlands"
+  },
+  {
+    "id": "SG-Singapore",
+    "name": "Singapore, Singapore",
+    "level": "city",
+    "countryName": "Singapore"
+  },
+  {
+    "id": "AE-Dubai",
+    "name": "Dubai, United Arab Emirates",
+    "level": "city",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "id": "JP-Tokyo",
+    "name": "Tokyo, Japan",
+    "level": "city",
+    "countryName": "Japan"
+  },
+  {
+    "id": "GE-Tbilisi",
+    "name": "Tbilisi, Georgia",
+    "level": "city",
+    "countryName": "Georgia"
+  },
+  {
+    "id": "AR-Buenos Aires",
+    "name": "Buenos Aires, Argentina",
+    "level": "city",
+    "countryName": "Argentina"
+  },
+  {
+    "id": "KR-Seoul",
+    "name": "Seoul, South Korea",
+    "level": "city",
+    "countryName": "South Korea"
+  },
+  {
+    "id": "PT-Porto",
+    "name": "Porto, Portugal",
+    "level": "city",
+    "countryName": "Portugal"
+  },
+  {
+    "id": "ES-Valencia",
+    "name": "Valencia, Spain",
+    "level": "city",
+    "countryName": "Spain"
+  },
+  {
+    "id": "ES-Seville",
+    "name": "Seville, Spain",
+    "level": "city",
+    "countryName": "Spain"
+  },
+  {
+    "id": "ES-Malaga",
+    "name": "Malaga, Spain",
+    "level": "city",
+    "countryName": "Spain"
+  },
+  {
+    "id": "MX-Merida",
+    "name": "Merida, Mexico",
+    "level": "city",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "MX-Guadalajara",
+    "name": "Guadalajara, Mexico",
+    "level": "city",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "MX-Playa del Carmen",
+    "name": "Playa del Carmen, Mexico",
+    "level": "city",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "TH-Phuket",
+    "name": "Phuket, Thailand",
+    "level": "city",
+    "countryName": "Thailand"
+  },
+  {
+    "id": "JP-Osaka",
+    "name": "Osaka, Japan",
+    "level": "city",
+    "countryName": "Japan"
+  },
+  {
+    "id": "DE-Munich",
+    "name": "Munich, Germany",
+    "level": "city",
+    "countryName": "Germany"
+  },
+  {
+    "id": "GB-Manchester",
+    "name": "Manchester, United Kingdom",
+    "level": "city",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "GB-Edinburgh",
+    "name": "Edinburgh, United Kingdom",
+    "level": "city",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "FR-Lyon",
+    "name": "Lyon, France",
+    "level": "city",
+    "countryName": "France"
+  },
+  {
+    "id": "CO-Bogota",
+    "name": "Bogota, Colombia",
+    "level": "city",
+    "countryName": "Colombia"
+  },
+  {
+    "id": "AE-Abu Dhabi",
+    "name": "Abu Dhabi, United Arab Emirates",
+    "level": "city",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "id": "ID-Denpasar",
+    "name": "Denpasar, Indonesia",
+    "level": "city",
+    "countryName": "Indonesia"
+  },
+  {
+    "id": "GE-Batumi",
+    "name": "Batumi, Georgia",
+    "level": "city",
+    "countryName": "Georgia"
+  },
+  {
+    "id": "AL-Tirana",
+    "name": "Tirana, Albania",
+    "level": "city",
+    "countryName": "Albania"
+  },
+  {
+    "id": "RS-Belgrade",
+    "name": "Belgrade, Serbia",
+    "level": "city",
+    "countryName": "Serbia"
+  },
+  {
+    "id": "BG-Sofia",
+    "name": "Sofia, Bulgaria",
+    "level": "city",
+    "countryName": "Bulgaria"
+  },
+  {
+    "id": "MY-Kuala Lumpur",
+    "name": "Kuala Lumpur, Malaysia",
+    "level": "city",
+    "countryName": "Malaysia"
+  },
+  {
+    "id": "VN-Ho Chi Minh City",
+    "name": "Ho Chi Minh City, Vietnam",
+    "level": "city",
+    "countryName": "Vietnam"
+  },
+  {
+    "id": "VN-Da Nang",
+    "name": "Da Nang, Vietnam",
+    "level": "city",
+    "countryName": "Vietnam"
+  },
+  {
+    "id": "VN-Hanoi",
+    "name": "Hanoi, Vietnam",
+    "level": "city",
+    "countryName": "Vietnam"
+  },
+  {
+    "id": "ZA-Cape Town",
+    "name": "Cape Town, South Africa",
+    "level": "city",
+    "countryName": "South Africa"
+  },
+  {
+    "id": "HU-Budapest",
+    "name": "Budapest, Hungary",
+    "level": "city",
+    "countryName": "Hungary"
+  },
+  {
+    "id": "CZ-Prague",
+    "name": "Prague, Czechia",
+    "level": "city",
+    "countryName": "Czechia"
+  },
+  {
+    "id": "PL-Warsaw",
+    "name": "Warsaw, Poland",
+    "level": "city",
+    "countryName": "Poland"
+  },
+  {
+    "id": "GR-Athens",
+    "name": "Athens, Greece",
+    "level": "city",
+    "countryName": "Greece"
+  },
+  {
+    "id": "IE-Dublin",
+    "name": "Dublin, Ireland",
+    "level": "city",
+    "countryName": "Ireland"
+  },
+  {
+    "id": "IT-Rome",
+    "name": "Rome, Italy",
+    "level": "city",
+    "countryName": "Italy"
+  },
+  {
+    "id": "IT-Milan",
+    "name": "Milan, Italy",
+    "level": "city",
+    "countryName": "Italy"
+  },
+  {
+    "id": "CR-San Jose",
+    "name": "San Jose, Costa Rica",
+    "level": "city",
+    "countryName": "Costa Rica"
+  }
+]
