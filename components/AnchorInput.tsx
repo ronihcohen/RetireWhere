@@ -10,7 +10,7 @@ interface Props {
   anchorQuery: string;
   anchorMonthly: number;
   onChange: (patch: Partial<{
-    mode: AnchorMode;
+    anchorMode: AnchorMode;
     anchorQuery: string;
     anchorMonthly: number;
   }>) => void;
@@ -28,7 +28,7 @@ export default function AnchorInput({
       <div className="flex gap-2">
         <button
           type="button"
-          onClick={() => onChange({ mode: "own" })}
+          onClick={() => onChange({ anchorMode: "own" })}
           className={`px-4 py-1.5 rounded-full text-sm font-medium border transition-colors ${
             mode === "own"
               ? "bg-indigo-600 text-white border-indigo-600"
@@ -39,7 +39,7 @@ export default function AnchorInput({
         </button>
         <button
           type="button"
-          onClick={() => onChange({ mode: "baseline" })}
+          onClick={() => onChange({ anchorMode: "baseline" })}
           className={`px-4 py-1.5 rounded-full text-sm font-medium border transition-colors ${
             mode === "baseline"
               ? "bg-indigo-600 text-white border-indigo-600"

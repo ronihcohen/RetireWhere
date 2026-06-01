@@ -38,8 +38,15 @@ export default function Home() {
     []
   );
 
+  const isSamePlace =
+    form.anchorMode === "own" &&
+    form.targetQuery.trim().length > 0 &&
+    form.anchorQuery.trim().length > 0 &&
+    form.targetQuery.trim().toLowerCase() === form.anchorQuery.trim().toLowerCase();
+
   const canSubmit =
     form.targetQuery.trim().length > 0 &&
+    !isSamePlace &&
     (form.anchorMode === "baseline" ||
       (form.anchorQuery.trim().length > 0 && form.anchorMonthly > 0));
 
@@ -147,6 +154,11 @@ export default function Home() {
 
         {/* Submit */}
         <div className="px-5 py-4 bg-slate-50 rounded-b-2xl">
+          {isSamePlace && (
+            <p className="text-xs text-amber-600 mb-2">
+              Destination and current location can&apos;t be the same place.
+            </p>
+          )}
           <button
             type="submit"
             disabled={loading || !canSubmit}

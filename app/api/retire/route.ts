@@ -125,6 +125,10 @@ export async function POST(req: NextRequest) {
   }
 
   const { target, anchor, mixedSources } = pair;
+
+  if (target.id === anchor.id)
+    return err("Destination and current location can't be the same place.", 422);
+
   const indexRatio = target.index / anchor.index;
   const calc = computeNestEgg({ anchorMonthly, indexRatio, swr, taxRate });
 
